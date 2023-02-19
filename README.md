@@ -1,7 +1,6 @@
 # Sampling_Assignment
 
-In this python code, we have used sampling techniques on a credit card fraud detection dataset 
-and then applied various ML models on the dataset to find out which Model,sampling technique combination
+Various ML models are applied on the dataset to find out which Model,sampling technique combination
 gives us the best accuracy.
 
 
@@ -29,8 +28,7 @@ Following 5 models were applied on the sampled dataset:
 5. Extra Tree Classifier (M5)
 
 
-On execution of the code, following results were obtained:
-The cells of the table represent accuracy of the applied model using the respective sampling technique.
+RESULT
 
 ![](https://github.com/bhavnagoyal/Sampling/blob/9abd7fa711ee12566f5bb9ed1119da1c334eb3eb/result.png)
 
